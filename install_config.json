@@ -1,0 +1,8 @@
+{
+	"task_name": "Case Numbers Notification",
+	"schtask_xml_name": "case_num_notif_schtask.xml",
+	"seamless_install_path": "C:\\Program Files\\Seamless Intelligence",
+	"case_num_notif_install_dir": "Case Numbers Notification",
+	"config_file_name": "config.json",
+	"script_file_name": "case_num_notif.ps1"
+}
